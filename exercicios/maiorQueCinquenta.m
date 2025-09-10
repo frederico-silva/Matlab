@@ -7,5 +7,5 @@ if (num > 50)
     res = num/2;
     fprintf("The number %.2f is %.2f \n", num, res);
 else
-   fprintf("The num %.2f is less than or equal 50 \n", num)
+   fprintf("The num %.2f is less than or equal 50 \n", num);
 end 
